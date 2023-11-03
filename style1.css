@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{margin: 0;}
+.wrap{
+    font-family: 'Noto Sans KR';
+    position: relative;
+    background-color: rgb(224, 255, 245);
+    margin: 0 auto;
+}
+.box1{
+    width: 1920px; height: 1080px;
+    margin: 0 auto;
+}
+.inbox1{position: relative;
+    width: 1620px; height: 900px; top: 90px;
+    }
+.sb1{position: absolute;
+    width: 731px; top: 28px; }
+.sb2{position: absolute;
+    width: 382px; height: 94px; 
+    left: 731px; top: 28px;}
+.sb3{position: absolute;
+    width: 478px; height: 671px; 
+    left: 732px; top: 172px;}
+.sb4{position: absolute; 
+    width: 478px; height: 38px;  
+    left: 732px; top: 810px;}
+.sb5{position: absolute;
+    width: 478px; height: 38px;  
+    left: 732px; top: 844px; }
+.sb6{position: absolute; 
+    left: 1470px; top:728px;
+    width: 150px; height: 150px;}
+
+
+.box2{height: 1031px; margin: 0 auto; }
+.inbox2{position: relative; left: 40%; transform: translateX(-40%);
+        width: 799px; height: 980px;}
+
+
+.box3{height: 764px; margin: 0 auto;  position : relative ; left : 3%; transform : translateX (-3%); }
+    .inbox3{position: relative;
+        width: 1375px; height: 764px; 
+        left: 400px;}
+    .ab1{position: absolute;}
+    .twrap1{position: relative;
+        width: 530px; height: 755px; left: 840px;
+        font-size: 19px; line-height: 33px;}
+        .tb1{width: 530px; height: 130px;  }
+        .tb2{width: 530px; height: 260px; 
+            margin-top: 40px; margin-bottom: 40px;}
+        .tb3{width: 530px; height: 290px; }
+
+.box4{height: 1020px; margin-top: 20px; position : relative ; left : 3%; transform : translateX (-3%);}
+    .inbox4{
+        width: 1500px; height: 1020px; 
+    margin-left: 274px;}
+        .twrap2{width: 520px; height: 1020px; 
+                font-size: 19px; line-height: 33px; position: relative;}
+            .tbb1, .tbb2, .tbb3, .tbb4, .tbb5, .tbb6, .tbb7, .tbb8 {width: 520px;}
+            .tbb1{height: 130px; }
+            .tbb2{height: 130px;  margin-top: 40px; }
+            .tbb3{height: 100px;  margin-top: 40px;}
+            .tbb4{height: 100px;  margin-top: 40px; }
+            .tbb5{height: 100px; }
+            .tbb6{height: 60px; margin-top: 40px; }
+            .tbb7{height: 100px; }
+            .tbb8{height: 60px;  margin-top: 40px;}
+    .lb1{margin-left: 690px; position: absolute}
+    .lb2{margin-left: 950px; margin-top: 750px; position: absolute;}
+
+.box5{height: 1000px; 
+    left: 290px ;  position : relative ; left : 10%; transform : translateX (-10%);  }
+        .inbox5{ height: 1000px; }
+        .twrap3{ font-size: 19px; line-height: 33px;}
+            .tbbb2, .tbbb4 {margin-top: 36px; margin-bottom: 36px;}
+        .img1{position: absolute; left: 1070px; bottom: 350px; }
+
+.box6{height: 775px; margin-top: 20px;position : relative ; left : 3%; transform : translateX (-3%);}
+    .inbox6{width: 1545px; height: 775px; }
+        .lst1 {position: absolute; margin-left: 225px;}
+        .lst2 {position: absolute; margin-left: 225px; margin-top: 675px;}
+        .twrap4{width: 695px; height: 775px; 
+                font-size: 19px; line-height: 33px; position: absolute; 
+                margin-left: 1075px;           
+            }
+        .xb2, .xb4{margin-top: 40px; margin-bottom: 40px;}
+        .logo7{position: absolute; margin-left: 540px; margin-top: 670px;}
+
